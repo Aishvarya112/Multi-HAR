@@ -4,7 +4,7 @@ A parallel feature fusion-based HAR framework is proposed for classification of 
 
 **Dataset Links**
 
-**KTH Dataset **
+**KTH Dataset**
 Downloaded from: https://www.csc.kth.se/cvap/actions/
 
 **Weizmann Dataset**
